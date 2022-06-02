@@ -19,7 +19,7 @@ item_stock = {
     'model plane' : ("Model Plane", 28.00),
     'hammer' : ("Hammer", 8.00),
     'screwdriver' : ("Screwdriver", 5.50),
-    'Pliers' : ("Pliers", 4.20),
+    'pliers' : ("Pliers", 4.20),
     'pasta' : ("Pasta", 5.00),
     'sausage': ("Sausage", 5.50),
     'hard drive': ("Hard Drive", 50.00),
